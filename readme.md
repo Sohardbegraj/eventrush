@@ -98,6 +98,9 @@ For major changes, please open an issue first to discuss what you would like to 
 
 ---
 ## 👨‍💻 Authors
+<a href="https://github.com/Sohardbegraj/eventrush/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Sohardbegraj/eventrush" />
+</a>
 
 Built with ❤️ by **LAKSH/ARYAN/SOHARD**.
 
